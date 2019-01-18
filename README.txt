@@ -1,5 +1,6 @@
 Install the requirements
-### together with spacy install english model 'en_core_web_sm' 
+### together with spacy install english model 'en_core_web_sm' : 
+ python -m spacy download en_core_web_sm
 
 1) run actions server
 
